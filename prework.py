@@ -9,8 +9,8 @@ def odd_numbers():
 
         print(odd_numbers())
 
-
  # even numbers
+ 
  def even_numbers():
      for num in range(1, 100, 2):
          if num % 2 !=0:
